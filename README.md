@@ -14,7 +14,7 @@ Run instructions for Windows and macOS:
   • See https://aka.ms/ReactNative for the latest up-to-date instructions.
   
   
-  There is an error in the app.
-  Always showing that LibraryList is not rendering anything
+  # There is an error in the app.
+  # Always showing that LibraryList is not rendering anything
   
   
